@@ -1,0 +1,19 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+
+# Local virtual environments
+.venv/
+
+# Generated / large model artifacts (store externally or with Git LFS if needed)
+models/*.pkl
+models/*.pickle
+models/*.joblib
+models/*.h5
+models/*.keras
+models/*.pt
+models/*.pth
+models/*.onnx
