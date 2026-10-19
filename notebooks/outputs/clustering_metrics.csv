@@ -1,0 +1,6 @@
+Algorithm,Silhouette,Davies-Bouldin,Calinski-Harabasz,ARI vs true labels (post-hoc)
+K-Means (k=2),0.3434,1.3205,267.6917,0.6536
+Agglomerative (ward),0.3394,1.37,248.6288,0.575
+Agglomerative (complete),0.6607,0.4497,27.8727,0.0048
+Agglomerative (average),0.634,0.6799,32.4822,0.0073
+Agglomerative (single),0.6607,0.4497,27.8727,0.0048
